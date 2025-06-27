@@ -48,6 +48,10 @@ The deployment and infrastructure of the Postal Management System are designed f
 
 ![App Screenshot](https://github.com/ChanakaDushmantha/postal-management-system/blob/main/image/Deployment%20Plan.jpg)
 
+## Database Structure
+
+![App Screenshot](https://github.com/ChanakaDushmantha/postal-management-system/blob/main/image/Diagram.jpg)
+
 ## Tech Stack
 
 - Python 3
